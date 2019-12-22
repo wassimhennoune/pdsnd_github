@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+this project was forked on the 22nd of December 2019
 
 ### Project Title
-Replace the Project Title
+US Bike share analysis.
 
 ### Description
-Describe what your project is about and what it does
+in this project, we provide a general data analysis on the US-Bikeshare dataset. containing data about bikes renting for the previous 6 years in the unitede states
 
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Technology used
+to make this analysis. we have used :
+* Jupyter notebook
+* Pandas
+* Numpy
 
